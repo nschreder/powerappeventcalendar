@@ -1,5 +1,5 @@
-# Calendar Event PowerApp / Countdown Event PowerApp
-Welcome to the Calendar PowerApp / Countdown PowerApp. This project was based on an advent calendar. This PowerApp template provides an adjustable calendar for your company or team. It can be easily imported into your (default) environment and shared within the organization with no additional connector needed.
+# Event Calendar PowerApp 
+Welcome to the Event Calendar PowerApp. This project was based on an advent calendar. This PowerApp template provides an adjustable calendar for your company or team. It can be easily imported into your (default) environment and shared within the organization with no additional connector needed.
 
 **Content**
 - [Calendar Event PowerApp / Countdown Event PowerApp](#calendar-event-powerapp--countdown-event-powerapp)
